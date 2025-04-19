@@ -117,7 +117,9 @@ ipython_config.py
 .pdm-python
 .pdm-build/
 output_images/
+detection_output
 detection_output i1/
+detection_output 19042025/
 detection_output i2/
 detection_output ipp t 0.7/
 detection_output ipp t 0.8/

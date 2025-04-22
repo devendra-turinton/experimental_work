@@ -1851,7 +1851,7 @@ if __name__ == "__main__":
     async def main():
         results = await detector.detect_symbols_in_pdf(
             pnid_pdf_path, 
-            match_threshold=0.75,
+            match_threshold=1.0,
             use_parallel=True,
             dpi=150
         )

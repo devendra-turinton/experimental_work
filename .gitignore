@@ -117,13 +117,10 @@ ipython_config.py
 .pdm-python
 .pdm-build/
 output_images/
-detection_output
-detection_output i1/
-detection_output 19042025/
-detection_output i2/
-detection_output ipp t 0.7/
-detection_output ipp t 0.8/
+output
 extracted_labels.json
+detection_output
+
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
